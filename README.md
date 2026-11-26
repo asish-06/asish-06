@@ -39,7 +39,7 @@ ASISH KHAN A
 
 5. Contact
    - GitHub: https://github.com/asish-06
-   - LinkedIn: Placeholder for profile URL.
+   - LinkedIn:www.linkedin.com/in/asish-khan-a-4a4a85371
 
 **Important requirements:**
 - Generate complete GitHub-compatible README.md Markdown.
