@@ -1,44 +1,93 @@
-Create a clean, highly professional GitHub Profile README for an engineering college student named **ASISH KHAN A** (GitHub username: `asish-06`).
 
-**Design and presentation:**
-- Minimal, modern, academic and professional.
-- Suitable for an engineering student applying for internships and technical opportunities.
-- Avoid excessive emojis, animations, colorful badges, visitor counters and unnecessary decorations.
-- Use clear section headings, consistent formatting and concise descriptions.
-- Make it look like a genuine student developer portfolio, not a generic influencer profile.
+<h1 align="center">ASISH KHAN A</h1>
 
-**Profile heading:**
-ASISH KHAN A
- Engineering Student 
+<h3 align="center">MSc Computer Science Student</h3>
 
-**Sections to include:**
+<p align="center">
+  Academic Projects | Research & Development | Software Engineering
+</p>
 
-1. About
-   - Brief professional introduction.
-   - Interest in software development, AI/ML and research.
-   - Focus on academic projects and practical implementations.
+---
 
-2. Academic Projects
-   Include these projects with concise descriptions:
-   - AI-Based Electricity Demand Forecasting – Python, LSTM, GRU, TensorFlow, FE and DAYTON datasets.
-   - Library Management System – Salesforce.
-   - Vehicle Service Management System – Salesforce.
+## About
 
-3. Technical Skills
-   - Programming: C, C++, Python, JavaScript.
-   - Web: HTML, CSS, React.js, Node.js.
-   - AI/ML: Machine Learning, Deep Learning, LSTM, GRU.
-   - Tools: Git, GitHub, VS Code, Google Colab.
-   - Database: MySQL, MongoDB.
+I am a postgraduate Computer Science student with an interest in software development, artificial intelligence, and emerging technologies.
 
-4. Research Interests
-   - Artificial Intelligence and Machine Learning.
-   - Time-Series Forecasting.
-   - Deep Learning.
-   - Software Engineering.
+This GitHub profile serves as a collection of my academic projects, research work, and practical implementations developed during my learning journey.
 
-5. Contact
-   - GitHub: https://github.com/asish-06
-   - LinkedIn:www.linkedin.com/in/asish-khan-a-4a4a85371
+I focus on understanding technical concepts and applying them to solve real-world problems through software and technology.
 
+---
 
+## Academic Projects
+
+### 1. AI-Based Short-Term Electricity Demand Forecasting
+**Domain:** Artificial Intelligence & Deep Learning
+
+- Working on electricity demand forecasting using historical energy consumption data.
+- Exploring hybrid deep learning architectures for improved prediction.
+- Working with FE and DAYTON datasets from the PJM dataset.
+
+**Technologies:** Python, TensorFlow, LSTM, GRU, Pandas, NumPy
+
+### 2. Library Management System
+**Domain:** Application Development
+
+- Developed an application to manage library books and transaction records.
+- Designed custom objects, fields, and relationships.
+- Implemented basic record management functionality.
+
+**Platform:** Salesforce
+
+### 3. Vehicle Service Management System
+**Domain:** Application Development
+
+- Designed a system to manage vehicle service information.
+- Created custom objects and fields to organize service records.
+- Worked on service details and payment management.
+
+**Platform:** Salesforce
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Programming | C, C++, Python, Java |
+| Web Technologies | HTML, CSS, JavaScript |
+| AI & Machine Learning | LSTM, GRU, TensorFlow |
+| Database | MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code, Google Colab |
+| Platform | Salesforce |
+
+---
+
+## Research Interests
+
+- Artificial Intelligence and Machine Learning
+- Deep Learning Architectures
+- Time-Series Forecasting
+- Data Science
+- Software Engineering
+
+---
+
+## Development & Learning
+
+- Exploring new technologies through practical implementation.
+- Improving programming and problem-solving skills.
+- Working on academic and research-oriented projects.
+- Learning modern software development practices.
+
+---
+
+## Contact
+
+**GitHub:** [github.com/asish-06](https://github.com/asish-06)
+
+---
+
+<p align="center">
+  <i>Academic Learning • Research • Practical Implementation</i>
+</p>
