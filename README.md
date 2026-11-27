@@ -41,10 +41,4 @@ ASISH KHAN A
    - GitHub: https://github.com/asish-06
    - LinkedIn:www.linkedin.com/in/asish-khan-a-4a4a85371
 
-**Important requirements:**
-- Generate complete GitHub-compatible README.md Markdown.
-- Use professional wording and realistic descriptions.
-- Do not invent achievements, certifications, experience or project results.
-- Do not include fake GitHub statistics.
-- Keep the content concise and recruiter-friendly.
-- Make the final output ready to paste directly into the profile repository named `asish-06`.
+
